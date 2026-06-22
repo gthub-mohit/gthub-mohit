@@ -29,7 +29,10 @@
 
 🛠 Technical Arsenal
 
-CategoryTech StackLanguages<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/Embedded_C-A8B9CC?style=flat-square&logo=c&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />Robotics & Hardware<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" /> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" /> <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=flat-square&logo=dassaultsystemes&logoColor=white" /> <img src="https://img.shields.io/badge/Fusion_360-FF6600?style=flat-square&logo=autodesk&logoColor=white" />Embedded / Edge AI<img src="https://img.shields.io/badge/ESP--SR-E7352C?style=flat-square&logo=espressif&logoColor=white" /> <img src="https://img.shields.io/badge/FreeRTOS-00979D?style=flat-square" /> <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" /> <img src="https://img.shields.io/badge/Edge_AI-ff3333?style=flat-square" />Game Dev<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" /> <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" />Tools<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" /> <img src="https://img.shields.io/badge/PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white" />
+CategoryTech StackLanguages<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/Embedded_C-A8B9CC?style=flat-square&logo=c&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+Robotics & Hardware<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" /> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" /> <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=flat-square&logo=dassaultsystemes&logoColor=white" /> <img src="https://img.shields.io/badge/Fusion_360-FF6600?style=flat-square&logo=autodesk&logoColor=white" />Embedded / Edge AI<img src="https://img.shields.io/badge/ESP--SR-E7352C?style=flat-square&logo=espressif&logoColor=white" /> <img src="https://img.shields.io/badge/FreeRTOS-00979D?style=flat-square" /> <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" /> <img src="https://img.shields.io/badge/Edge_AI-ff3333?style=flat-square" />
+Game Dev<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" /> <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" />
+Tools<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" /> <img src="https://img.shields.io/badge/PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white" />
 
 
 🚀 Featured Projects
@@ -37,14 +40,14 @@ CategoryTech StackLanguages<img src="https://img.shields.io/badge/C++-00599C?sty
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🎙️ GrihaSetu — Voice Remote</h4>
+      <h4>🎙️ Voice Recognition System</h4>
       <p>Offline smart home control via WakeNet + MultiNet on ESP32-S3. Zero cloud, I2S mic → MQTT.</p>
       <img src="https://img.shields.io/badge/ESP32--S3-E7352C?style=flat&logo=espressif&logoColor=white" />
       <img src="https://img.shields.io/badge/ESP--SR-ff3333?style=flat" />
       <img src="https://img.shields.io/badge/Edge_AI-00979D?style=flat" />
     </td>
     <td width="50%" valign="top">
-      <h4>🤖 Maze Solving Robot — 🏆 Enyugma '26</h4>
+      <h4>🤖 Maze Solving Robot</h4>
       <p>Autonomous Flood-Fill + PID navigation robot. Won 3rd prize competing against multi-college teams.</p>
       <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
       <img src="https://img.shields.io/badge/PID_Control-ff3333?style=flat" />
@@ -53,7 +56,7 @@ CategoryTech StackLanguages<img src="https://img.shields.io/badge/C++-00599C?sty
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🎮 2D Action Platformer — 🏆 Enyugma '26</h4>
+      <h4>🎮 2D Action Platformer</h4>
       <p>Unity platformer with custom combat, enemy AI state machines. Won GDAI round ~80% solo.</p>
       <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white" />
       <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
