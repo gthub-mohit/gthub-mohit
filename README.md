@@ -22,7 +22,7 @@
 
 
 🔬 Now: Exoskeleton systems — pneumatic muscles, observer-based control (IIT Guwahati)
-🎮 Building: ECHO & Project Punk (Unreal Engine) · GrihaSetu offline voice control (ESP32-S3)
+🎮 Building: ECHO & Project Punk (Unity) · GrihaSetu offline voice control (ESP32-S3)
 🎯 Goal: Embedded AI / bare-metal ML at the hardware–software boundary
 
 
