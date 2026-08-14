@@ -19,11 +19,10 @@
 
 ## 👤 About Me
 
-2nd year Mechatronics Engg. & Automation student at IIIT BH, building at the intersection of robotics, embedded AI, and game development. Research Intern @ IIT Guwahati. CodeChef 2★ · 1503.
-
-- 🔬 **Now:** Exoskeleton systems — pneumatic muscles, observer-based control (IIT Guwahati)
-- 🎮 **Building:** ECHO & Project Punk (Unity) · GrihaSetu offline voice control (ESP32-S3)
-- 🎯 **Goal:** Embedded AI / bare-metal ML at the hardware–software boundary
+- 🔧 2nd year **Mechatronics & Automation Engineering** student at **IIIT Bhagalpur**
+- 🎮 Building **ROBOTICS** & **COOL PROJECTS** 
+- 🏆 CodeChef 2★ · competitive programming in C++
+- 🎯 Goal: Embedded AI / bare-metal ML at the hardware–software boundary
 
 ## 🛠 Technical Arsenal
 
@@ -70,6 +69,12 @@
   </tr>
 </table>
 
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gthub-mohit&theme=react-dark&bg_color=0d1117&color=ff3333&line=ff3333&point=ffffff" alt="Contribution Graph" width="100%" />
+</div>
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -81,6 +86,18 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gthub-mohit&background=0d1117&ring=ff3333&fire=ff3333&currStreakLabel=ff3333&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=888888&border=ff3333" alt="GitHub Streak" width="60%" />
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gthub-mohit&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" width="100%" />
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gthub-mohit/gthub-mohit/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
 </div>
 
 <div align="center">
